@@ -1,0 +1,112 @@
+Privacy Policy for Waiting Time Calculator**
+Effective Date:** June 12, 2025
+
+This Privacy Policy explains how **Waiting Time Calculator** (the “App”), published by **Abdulkader Diab** (“we,” “us,” or “our”), collects, uses, discloses, and protects information when you use the App. We take your privacy seriously and comply with the Google Play Developer Program Policies, including the User Data and Personal and Sensitive User Data requirements, as well as applicable data protection laws.
+
+---
+
+1. Developer Information & Contact
+
+Developer: Abdulkader Diab
+Email: aboody.diab@gmail.com
+App Package Name: waiting.time
+
+If you have any questions about this policy or our data practices, please contact us at the email address above.
+
+---
+
+2. Information We Collect
+
+2.1 User-Provided Input
+
+On-Site Time & Finish Time:** The times you enter to calculate total on-site duration.
+Load Size:** A numeric value you enter to compute payable waiting time.
+
+Purpose: These inputs are used solely to perform the App’s core functionality—calculating waiting durations and payable time. They are stored locally on your device and are **not** transmitted to any external server.
+
+2.2 Device & Usage Data
+
+We use Firebase Crashlytics and Firebase Analytics for crash reporting and anonymized usage statistics. The following data may be collected automatically:
+
+Device model (e.g., Samsung Galaxy S21)
+Operating system & version (e.g., Android 12)
+App version
+Crash logs (stack traces, error reports)
+Event metrics (e.g., how often features are used)
+
+Purpose:** To diagnose crashes, improve app stability, and better understand usage patterns. All analytics data is collected in aggregate — no personally identifiable information is attached.
+
+---
+
+3. No Personal or Sensitive Data Collected
+
+We do **not** collect, access, or store any of the following:
+
+ Names, email addresses, phone numbers, or other identifiers
+ Location data
+ Contacts, call logs, SMS
+ Health or fitness data
+ Financial or payment information
+ Microphone, camera, or other sensor data
+
+We do not sell, share, or otherwise disclose any personal or sensitive user data.
+
+---
+
+ 4. Data Sharing & Disclosure
+
+Service Providers:** We share anonymized analytics and crash reports with Google (Firebase) solely to provide and maintain the analytics/crash-reporting services.
+Legal Requirements:** We may disclose data if required by law or to protect our rights.
+
+All third-party SDKs included in the App (Firebase Crashlytics, Firebase Analytics) comply with Google Play’s data-use and disclosure requirements and do not sell your data.
+
+---
+
+ 5. Security
+
+ We use industry-standard measures (e.g., HTTPS/TLS) to transmit any analytics data to Firebase.
+ Crash and usage data are stored on Google’s secure servers.
+ We do not store sensitive user inputs on any remote servers.
+
+---
+
+ 6. Permissions & Consent
+
+Runtime Permissions:** The App does **not** request any Android runtime permissions (e.g., location, contacts, camera).
+User Consent:** Since we do not collect personal or sensitive data, no explicit in-app consent dialogs are required.
+
+---
+
+## 7. Data Retention & Deletion
+
+Local Data:** All time inputs and results remain on your device until you uninstall the App or clear its data.
+Analytics Data:** Firebase retains crash and analytics data according to its standard retention settings.
+
+Because the App does not create user accounts or collect PII, there is no user-account deletion flow required. Uninstalling the App or revoking its storage clears all local data.
+
+---
+
+ 8. Children’s Privacy
+
+The App is not directed to children under 13. We do not knowingly collect personal information from children.
+
+---
+
+ 9. Changes to This Policy
+
+We may update this policy to reflect changes to our practices or legal requirements. Whenever we make changes, we will update the “Effective Date” at the top. We encourage you to review this policy periodically.
+
+---
+
+ 10. Data Safety Section (Play Console)
+
+When you complete the Data safety form for Google Play, please disclose:
+
+Data Collected:** None (user inputs stay on device); Device & usage data (Crashlytics, Analytics).
+Purpose: App functionality; Performance & analytics.
+Sharing: Firebase (Crashlytics, Analytics).
+Security: HTTPS/TLS; Google-managed secure servers.
+
+---
+
+Thank you for using **Waiting Time Calculator**. Your privacy and trust are important to us.
